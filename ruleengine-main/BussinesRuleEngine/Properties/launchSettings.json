@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BussinesRuleEngine": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
